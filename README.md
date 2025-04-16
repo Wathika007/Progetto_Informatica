@@ -1,6 +1,4 @@
-<head>
-<title> Progetto INI </title>
-</head>
+
 <body>
 <h1  style="text-align:center;">Progetto Informatica</h1>
 <h2 style="text-align: center; color: red;">Sceriffo Buono o Cattivo</h2>
