@@ -19,6 +19,5 @@ Facendo così,potrà decidere di essere lo sceriffo buono, quello che prende sem
 Il gioco si concluderà con il re della città che dovrà giudicare lo sceriffo in base alle scelte che ha fatto.</p>
 
 <a href="https://edu.cospaces.io/AFU-EHP">Clicca qui per accedere al gioco </a><br>
-<a href="https://github.com/Wathika007/Progetto_Informatica/settings/access">Clicca qui per accedere a Github </a>
 <p> <b>Per conttatarci:</b> mandate una mail a 20885@studenti.marconiverona.edu.it</p>
 </body>
