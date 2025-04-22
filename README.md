@@ -1,7 +1,8 @@
 
 <body>
 <h1  style="text-align:center;">Progetto Informatica</h1>
-<h2 style="text-align: center; color: red;">Sceriffo Buono o Cattivo</h2>
+<h2> I.T.I Guglielmo Marconi Verona Classe III GI <h2>
+<h3 style="text-align: center; color: red;">Sceriffo Buono o Cattivo</h3>
 <table style="text-align: center;" border="1">
 <th>Antolini</th>
 <th>Predomo</th>
